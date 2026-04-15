@@ -1,0 +1,1 @@
+{"version":3,"file":"AuthContext.d.ts","sourceRoot":"","sources":["../../src/context/AuthContext.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,OAAO,EAAE,MAAM,SAAS,CAAC;AACvC,OAAO,KAAK,EAAE,YAAY,EAAE,MAAM,+BAA+B,CAAC;AAGlE,qBAAa,WAAW;IACtB,OAAO,CAAC,YAAY,CAAe;gBAEhB,QAAQ,EAAE,YAAY;IAIlC,WAAW,CAAC,QAAQ,EAAE,YAAY;IAIlC,OAAO,CAAC,GAAG,EAAE,OAAO,GAAG,OAAO;CAGtC"}
