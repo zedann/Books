@@ -1,0 +1,1 @@
+{"version":3,"file":"ApiKeyStrategy.js","sourceRoot":"","sources":["../../src/strategies/ApiKeyStrategy.ts"],"names":[],"mappings":"AAIA,MAAM,OAAO,cAAc;IACzB,YAAY,CAAC,GAAY;QACvB,MAAM,MAAM,GAAG,iCAAiC,CAAC;QACjD,MAAM,UAAU,GAAG,GAAG,CAAC,OAAO,CAAC,WAAW,CAAC,CAAC;QAC5C,IAAI,CAAC,UAAU;YAAE,OAAO,KAAK,CAAC;QAC9B,OAAO,MAAM,KAAK,UAAU,CAAC;IAC/B,CAAC;CACF"}
