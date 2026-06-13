@@ -1,0 +1,1 @@
+{"version":3,"file":"OrganizationComponent.d.ts","sourceRoot":"","sources":["../../src/interfaces/OrganizationComponent.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,UAAU,EAAE,MAAM,iBAAiB,CAAC;AAElD,8BAAsB,qBAAqB;IAElC,GAAG,CAAC,SAAS,EAAE,qBAAqB,GAAG,IAAI;IAG3C,MAAM,IAAI,IAAI;aAKL,OAAO,IAAI,MAAM;aACjB,SAAS,IAAI,MAAM;aAGnB,cAAc,IAAG,UAAU,CAAC,qBAAqB,CAAC;CACnE"}
